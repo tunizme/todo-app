@@ -1,2 +1,2 @@
 PROJECT: TODO APP
-VERSION: --------
+VERSION: todo-app-1.0-snapshot
